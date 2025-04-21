@@ -61,6 +61,10 @@ https://roadmap.sh/projects/task-tracker
   task-cli mark-done 1
   
   task-cli mark-todo 1
+  
+- **Comando per terminare l'applicazione**:
+  
+  task-cli exit
 
 ## Come funziona
 
