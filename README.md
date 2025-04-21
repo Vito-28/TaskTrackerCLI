@@ -5,6 +5,7 @@ Questo è un semplice progetto CLI per monitorare le tue attività. Puoi aggiung
 
 ## Requisiti
 
+- Eclipse
 - Java 11 o superiore
 - Maven
 
@@ -59,6 +60,11 @@ Questo è un semplice progetto CLI per monitorare le tue attività. Puoi aggiung
 ## Come funziona
 
 Ogni attività ha una descrizione e uno stato (da fare, in corso, completata). Le attività vengono salvate in un file JSON.
+
+## NOTA: 
+
+Il codice è ancora in fase di miglioramento.
+
 
 ## Licenza
 
