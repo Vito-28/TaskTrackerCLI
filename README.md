@@ -3,6 +3,11 @@
 
 Questo è un semplice progetto CLI per monitorare le tue attività. Puoi aggiungere, aggiornare, eliminare e visualizzare le attività.
 
+## Risorse usate
+Articolo che descrive le funzionalità, obiettivi del progetto:
+
+https://roadmap.sh/projects/task-tracker
+
 ## Requisiti
 
 - Eclipse
