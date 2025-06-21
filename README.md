@@ -73,8 +73,3 @@ Ogni attività ha una descrizione e uno stato (da fare, in corso, completata). L
 ## NOTA: 
 
 Il codice è ancora in fase di miglioramento.
-
-
-## Licenza
-
-Questo progetto è distribuito sotto la Licenza MIT.
